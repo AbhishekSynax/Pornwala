@@ -20,7 +20,7 @@ from telegram.ext import (
 from PIL import Image, ImageDraw, ImageFont
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = "8434390670:AAFHer7O1Qglhnm4zlmqwzijXc2qJSIgIxw"
+BOT_TOKEN = "8251553782:AAF5NygZvlgzqGpR7mSH9ExPBUXPqSDnYlM"
 OWNER_ID = 6742625894
 
 # ================= DATABASE =================
